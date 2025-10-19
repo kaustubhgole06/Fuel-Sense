@@ -187,74 +187,8 @@ streamlit run app.py
 
 **Winner**: Random Forest Regressor with **84.7% accuracy** on test data
 
-## 🔮 Future Enhancements
-
-### Immediate Improvements:
-- [ ] Add more recent vehicle data (2000s-2020s)
-- [ ] Include hybrid and electric vehicle analysis
-- [ ] Implement advanced ML models (XGBoost, Neural Networks)
-- [ ] Add real-time data integration from automotive APIs
-
-### Advanced Features:
-- [ ] Multi-objective optimization (MPG vs. Performance)
-- [ ] Cost-benefit analysis for modifications
-- [ ] Environmental impact calculations (CO2 emissions)
-- [ ] Integration with vehicle diagnostic systems
-
-### Dashboard Enhancements:
-- [ ] Save and compare multiple vehicle configurations
-- [ ] Export reports and recommendations to PDF
-- [ ] Add more interactive visualizations
-- [ ] Implement user authentication and saved profiles
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-### Development Setup:
-```bash
-# Fork the repository
-git clone <your-fork-url>
-cd FuelSense
-
-# Create a virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Make your changes and test
-streamlit run app.py
-
-# Submit a pull request
-```
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact
-
-For questions, suggestions, or collaboration opportunities:
-
-- **Project Repository**: [GitHub Repository URL]
-- **Issues**: [GitHub Issues URL]
-- **Discussions**: [GitHub Discussions URL]
-
-## 🙏 Acknowledgments
-
-- **UCI Machine Learning Repository** for providing the Auto MPG dataset
-- **Streamlit** for the excellent dashboard framework
-- **Scikit-learn** for robust machine learning tools
-- **Plotly** for interactive visualizations
-
----
-
-<div align="center">
-
-**⛽ FuelSense - Driving Efficiency Through Data Science ⛽**
 
 *Made with ❤️ and Python*
+
 
 </div>
